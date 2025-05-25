@@ -1,0 +1,3 @@
+//MO460-461.TXT ANA00460 TO ANA00461
+fmvtpaie		TAR	1316	nouvelle taille enregistrement : 1316
+fmvtpaie	Numeropaie	RUB+		Numeropaie est une nouvelle rubrique

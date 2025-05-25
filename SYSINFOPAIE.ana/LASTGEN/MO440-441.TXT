@@ -1,0 +1,4 @@
+//MO440-441.TXT ANA00440 TO ANA00441
+fmvtpaie		TAR	1152	nouvelle taille enregistrement : 1152
+fmvtpaie	NbreanneAge	NNR	major4	ATTENTION : la rubrique major4 a pour nouveau nom NbreanneAge
+fmvtpaie	NbreanneAge	CNW	Entier non signé sur 2 octets$Réel sur 4 octets	la rubrique NbreanneAge a pour nouveau type Entier non signé sur 2 octets

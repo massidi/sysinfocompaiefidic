@@ -1,0 +1,8 @@
+//MO458-459.TXT ANA00458 TO ANA00459
+fmvtpaie		TAR	1312	nouvelle taille enregistrement : 1312
+fmvtpaie	Mthssuppl	RUB+		Mthssuppl est une nouvelle rubrique
+fmvtpaie	Mtlogement	RUB+		Mtlogement est une nouvelle rubrique
+fmvtpaie	Mtprimeimpos	RUB+		Mtprimeimpos est une nouvelle rubrique
+fmvtpaie	Mtprimenonimpos	RUB+		Mtprimenonimpos est une nouvelle rubrique
+fmvtpaie	Mtsalaires	RUB+		Mtsalaires est une nouvelle rubrique
+fmvtpaie	Mttransport	RUB+		Mttransport est une nouvelle rubrique

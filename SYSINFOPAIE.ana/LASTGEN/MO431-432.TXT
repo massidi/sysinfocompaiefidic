@@ -1,0 +1,4 @@
+//MO431-432.TXT ANA00431 TO ANA00432
+fmvtpaie		TAR	1208	nouvelle taille enregistrement : 1208
+fmvtpaie	DATEDEBBUT	RUB+		DATEDEBBUT est une nouvelle rubrique
+fmvtpaie	DateFin	RUB+		DateFin est une nouvelle rubrique
