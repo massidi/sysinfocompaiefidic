@@ -1,4 +1,0 @@
-//MO461-462.TXT ANA00461 TO ANA00462
-FMVTEXTRA		TAR	138	nouvelle taille enregistrement : 138
-FMVTEXTRA	Honoraires	RUB+		Honoraires est une nouvelle rubrique
-FMVTEXTRA	PERIODE	RUB+		PERIODE est une nouvelle rubrique

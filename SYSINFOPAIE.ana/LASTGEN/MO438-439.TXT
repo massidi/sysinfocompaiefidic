@@ -1,4 +1,0 @@
-//MO438-439.TXT ANA00438 TO ANA00439
-fmvtpaie		TAR	1154	nouvelle taille enregistrement : 1154
-fmvtpaie	Nbreanne	NNR	NumPaie	ATTENTION : la clé NumPaie a pour nouveau nom Nbreanne
-fmvtpaie	Nbreanne	CNW	Entier non signé sur 2 octets$Entier sur 4 octets	la rubrique Nbreanne a pour nouveau type Entier non signé sur 2 octets

@@ -1,9 +1,0 @@
-//MO509-510.TXT ANA00509 TO ANA00510
-Faffilies		TAR	1422	nouvelle taille enregistrement : 1422
-Faffilies	numeonem	RUB+		numeonem est une nouvelle rubrique
-Faffilies	numeiccm	RUB+		numeiccm est une nouvelle rubrique
-Faffilies	numeroniff	RUB+		numeroniff est une nouvelle rubrique
-Faffilies	Sigle	RUB+		Sigle est une nouvelle rubrique
-Faffilies	Sectactivite	RUB+		Sectactivite est une nouvelle rubrique
-Faffilies	Regimefiscal	RUB+		Regimefiscal est une nouvelle rubrique
-Faffilies	Fonctiopublique	RUB+		Fonctiopublique est une nouvelle rubrique

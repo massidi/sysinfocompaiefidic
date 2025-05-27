@@ -1,2 +1,0 @@
-//MO439-440.TXT ANA00439 TO ANA00440
-fmvtpaie	MontantSalmens	NNR	MontantRetenir	ATTENTION : la rubrique MontantRetenir a pour nouveau nom MontantSalmens

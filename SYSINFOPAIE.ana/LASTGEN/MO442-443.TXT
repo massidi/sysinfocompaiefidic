@@ -1,6 +1,0 @@
-//MO442-443.TXT ANA00442 TO ANA00443
-fmvtpaie		TAR	1266	nouvelle taille enregistrement : 1266
-fmvtpaie	LibAct	RUB+		LibAct est une nouvelle rubrique
-fmvtpaie	Trancheage	RUB+		Trancheage est une nouvelle rubrique
-fmvtpaie	cdetrancheage	RUB+		cdetrancheage est une nouvelle rubrique
-fmvtpaie	Libclasse	RUB+		Libclasse est une nouvelle rubrique

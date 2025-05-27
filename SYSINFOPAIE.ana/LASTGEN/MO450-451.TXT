@@ -1,4 +1,0 @@
-//MO450-451.TXT ANA00450 TO ANA00451
-FMVTEXTRA		TAR	129	nouvelle taille enregistrement : 129
-FMVTEXTRA	Mois	RUB+		Mois est une nouvelle rubrique
-FMVTEXTRA	Annee	RUB+		Annee est une nouvelle rubrique

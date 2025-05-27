@@ -1,4 +1,0 @@
-//MO444-445.TXT ANA00444 TO ANA00445
-fmvtpaie		TAR	1261	nouvelle taille enregistrement : 1261
-fmvtpaie	Nbre_miseapied	NNR	temps	ATTENTION : la rubrique temps a pour nouveau nom Nbre_miseapied
-fmvtpaie	Nbre_miseapied	CNW	Entier non signé sur 2 octets$Réel sur 8 octets	la rubrique Nbre_miseapied a pour nouveau type Entier non signé sur 2 octets
