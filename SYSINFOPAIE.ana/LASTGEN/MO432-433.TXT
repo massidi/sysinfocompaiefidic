@@ -1,0 +1,10 @@
+//MO432-433.TXT ANA00432 TO ANA00433
+fmvtpaie		TAR	1273	nouvelle taille enregistrement : 1273
+fmvtpaie	FUNERAILLE	RUB+		FUNERAILLE est une nouvelle rubrique
+fmvtpaie	SOINSMEDCONV	RUB+		SOINSMEDCONV est une nouvelle rubrique
+fmvtpaie	SOINSMEDACC	RUB+		SOINSMEDACC est une nouvelle rubrique
+fmvtpaie	TRANSPDIVERS	RUB+		TRANSPDIVERS est une nouvelle rubrique
+fmvtpaie	TRANSPDIMANCHE	RUB+		TRANSPDIMANCHE est une nouvelle rubrique
+fmvtpaie	TAUXHS	RUB+		TAUXHS est une nouvelle rubrique
+fmvtpaie	TOTALHS	RUB+		TOTALHS est une nouvelle rubrique
+fmvtpaie	MONTANTTOTALHS	RUB+		MONTANTTOTALHS est une nouvelle rubrique
