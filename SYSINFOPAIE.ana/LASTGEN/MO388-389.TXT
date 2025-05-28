@@ -1,0 +1,2 @@
+//MO388-389.TXT ANA00388 TO ANA00389
+FSauvmouvementPaie		FCNX+	Connexion au serveur 127.0.0.1, base BDSYSINFOPAIE	

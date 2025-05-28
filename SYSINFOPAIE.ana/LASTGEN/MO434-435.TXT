@@ -1,0 +1,6 @@
+//MO434-435.TXT ANA00434 TO ANA00435
+fmvtpaie		TAR	1324	nouvelle taille enregistrement : 1324
+fmvtpaie	nbrejourp	RUB+		nbrejourp est une nouvelle rubrique
+fmvtpaie	nbrejourp1	RUB+		nbrejourp1 est une nouvelle rubrique
+fmvtpaie	nbrejourp2	RUB+		nbrejourp2 est une nouvelle rubrique
+fmvtpaie	nbrejourp3	RUB+		nbrejourp3 est une nouvelle rubrique

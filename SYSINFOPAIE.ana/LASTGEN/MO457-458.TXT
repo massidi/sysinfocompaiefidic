@@ -1,0 +1,4 @@
+//MO457-458.TXT ANA00457 TO ANA00458
+fmvtpaie		TAR	1263	nouvelle taille enregistrement : 1263
+fmvtpaie	Nbrejrsnuit	RUB+		Nbrejrsnuit est une nouvelle rubrique
+fmvtpaie	Nbrereposvce	RUB+		Nbrereposvce est une nouvelle rubrique

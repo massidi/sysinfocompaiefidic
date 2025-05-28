@@ -1,0 +1,5 @@
+//MO462-463.TXT ANA00462 TO ANA00463
+FMVTEXTRA		TAR	151	nouvelle taille enregistrement : 151
+FMVTEXTRA	Nbre_agents	CNW	Réel sur 8 octets$Entier sur 4 octets	la rubrique Nbre_agents a pour nouveau type Réel sur 8 octets
+FMVTEXTRA	nbrehoraires	NNR	nbrehs	ATTENTION : la rubrique nbrehs a pour nouveau nom nbrehoraires
+FMVTEXTRA	Heuresjours	RUB+		Heuresjours est une nouvelle rubrique

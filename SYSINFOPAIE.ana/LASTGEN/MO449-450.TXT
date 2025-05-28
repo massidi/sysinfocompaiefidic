@@ -1,0 +1,4 @@
+//MO449-450.TXT ANA00449 TO ANA00450
+FMVTEXTRA		TAR	121	nouvelle taille enregistrement : 121
+FMVTEXTRA	Dateoperation	NNR	MontantdebUSD	ATTENTION : la rubrique MontantdebUSD a pour nouveau nom Dateoperation
+FMVTEXTRA	Dateoperation	CNW	Date (aaaammjj)$Réel sur 8 octets	la rubrique Dateoperation a pour nouveau type Date (aaaammjj)

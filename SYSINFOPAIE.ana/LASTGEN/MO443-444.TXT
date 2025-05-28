@@ -1,0 +1,3 @@
+//MO443-444.TXT ANA00443 TO ANA00444
+fmvtpaie		TAR	1267	nouvelle taille enregistrement : 1267
+fmvtpaie	Nbremap	RUB+		Nbremap est une nouvelle rubrique
