@@ -1,3 +1,0 @@
-//MO392-393.TXT ANA00392 TO ANA00393
-FBaremeSalarial		TAR	287	nouvelle taille enregistrement : 287
-FBaremeSalarial	cdesal_bar	TAI+	1	la rubrique cdesal_bar a comme nouvelle taille 5 au lieu de 4

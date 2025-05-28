@@ -1,6 +1,0 @@
-//MO433-434.TXT ANA00433 TO ANA00434
-fmvtpaie		TAR	1307	nouvelle taille enregistrement : 1307
-fmvtpaie	QPPCNSS	RUB+		QPPCNSS est une nouvelle rubrique
-fmvtpaie	QPPIER	RUB+		QPPIER est une nouvelle rubrique
-fmvtpaie	QPPONEM	RUB+		QPPONEM est une nouvelle rubrique
-fmvtpaie	QPPINPP	RUB+		QPPINPP est une nouvelle rubrique

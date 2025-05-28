@@ -1,2 +1,0 @@
-//MO466-467.TXT ANA00466 TO ANA00467
-fmvtpaie	Nbretravjour	CNW	Réel sur 4 octets$Entier sur 4 octets	la rubrique Nbretravjour a pour nouveau type Réel sur 4 octets

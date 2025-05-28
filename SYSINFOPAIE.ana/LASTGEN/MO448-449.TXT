@@ -1,4 +1,0 @@
-//MO448-449.TXT ANA00448 TO ANA00449
-FMVTEXTRA		TAR	120	nouvelle taille enregistrement : 120
-FMVTEXTRA	MontantdebUSD	NNR	Date	ATTENTION : la rubrique Date a pour nouveau nom MontantdebUSD
-FMVTEXTRA	MontantdebUSD	CNW	Réel sur 8 octets$Date (aaaammjj)	la rubrique MontantdebUSD a pour nouveau type Réel sur 8 octets

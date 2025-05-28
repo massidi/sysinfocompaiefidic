@@ -1,3 +1,0 @@
-//MO446-447.TXT ANA00446 TO ANA00447
-FMVTEXTRA		TAR	121	nouvelle taille enregistrement : 121
-FMVTEXTRA	Heurejourn_	RUB+		Heurejourn_ est une nouvelle rubrique

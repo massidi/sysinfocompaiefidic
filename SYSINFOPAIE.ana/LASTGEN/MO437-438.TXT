@@ -1,4 +1,0 @@
-//MO437-438.TXT ANA00437 TO ANA00438
-fmvtpaie		TAR	1156	nouvelle taille enregistrement : 1156
-fmvtpaie	codecontrat	NNR	Code	ATTENTION : la clé Code a pour nouveau nom codecontrat
-fmvtpaie	codecontrat	CNW	Entier non signé sur 1 octet$Chaîne	la rubrique codecontrat a pour nouveau type Entier non signé sur 1 octet

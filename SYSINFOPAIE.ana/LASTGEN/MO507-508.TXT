@@ -1,3 +1,0 @@
-//MO507-508.TXT ANA00507 TO ANA00508
-FSATISTIQUEAGENT		TAR	349	nouvelle taille enregistrement : 349
-FSATISTIQUEAGENT	Codepaie	RUB+		Codepaie est une nouvelle rubrique
